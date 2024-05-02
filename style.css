@@ -1,0 +1,123 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFCD9E;
+  color: #333;
+  padding: 0px;
+  margin: 0;
+}
+.container {
+  width: 100%;
+  /* margin: auto; */
+}
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+h4{
+  margin-right: 20px;
+}
+.footer{
+  background-color: #282828;
+  width: 100%;
+  color: white;
+
+}
+.footer p{
+  margin: 1.8%;
+  padding-left: 5%;
+  line-height-step: 15;
+  margin-top: 15px;
+
+}
+.header{
+  width: 85%;
+  overflow: auto;
+  padding: 0% 5%;
+  width: 80%;
+  overflow: auto;
+  margin: auto;
+  padding: 0% 3%;
+  
+}
+.content{
+  float: left;
+  width: 35%;
+  padding: 5%;
+}
+img{
+  width: 10%;
+height: 10%;
+/* top: 20px;
+left: 818px; */
+/* padding: 66.4px 89.61px 66.15px 91.87px; */
+gap: 0px;
+opacity: 0px;
+float: right;
+width: 30%;
+padding-top: 3%;
+
+}
+h6{
+  color: white;
+  margin-top: 10px;
+  padding-left: 55px;
+  font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 25.6px;
+/* bottom: 20px; */
+}
+.right{
+  float: right;
+    width: 30%;
+    display: inline-block;
+    text-align: right;
+    padding-right: 18%;
+}
+.left{
+  display: inline-block;
+  width: 40%;
+  padding-left: 10%;
+}
+input[type="email"] {
+  padding: 10px;
+  margin-right: 10px;
+  border: 2px solid #010101;
+  border-radius: 5px;
+}
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #555;
+}
+.footer {
+  font-size: 12px;
+  margin-top: 5px;
+  padding: 20px;
+  font-size: 12px;
+  margin-top: 5px;
+  padding: 10px;
+  padding-bottom: 3.4%;
+  width: 98.7%;
+}
+.logo{
+  width: 30px;
+  height:30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.logoimg{
+  padding-bottom: 20px;
+}input::placeholder {
+  font-weight: bold;
+}
